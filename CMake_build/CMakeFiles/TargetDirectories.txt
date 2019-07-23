@@ -1,0 +1,2 @@
+D:/Programming/cpp/cpp_dev/CMake_build/CMakeFiles/ALL_BUILD.dir
+D:/Programming/cpp/cpp_dev/CMake_build/CMakeFiles/ZERO_CHECK.dir
